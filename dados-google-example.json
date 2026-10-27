@@ -1,0 +1,9 @@
+{
+  "type": "service_account",
+  "project_id": "SUBSTITUA_PROJETO",
+  "private_key_id": "SUBSTITUA_ID_DA_CHAVE",
+  "private_key": "SUBSTITUA_CHAVE_PRIVADA_LOCAL",
+  "client_email": "service-account@example.invalid",
+  "client_id": "SUBSTITUA_CLIENT_ID",
+  "token_uri": "https://oauth2.googleapis.com/token"
+}

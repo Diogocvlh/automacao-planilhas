@@ -1,0 +1,33 @@
+# Credenciais e configuração de cada instalação
+.env
+.env.*
+!.env.example
+secrets/
+credentials/
+dados-google.json
+*-service-account.json
+*credentials*.json
+config/*.json
+!config/*.example.json
+
+# Sessões de navegador e capturas podem conter dados de terceiros
+cookies*.json
+*cookies*.pkl
+chrome-profile/
+browser-profile/
+screenshots/
+erro_*.png
+*.log
+
+# Python e ferramentas locais
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

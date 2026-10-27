@@ -1,0 +1,11 @@
+{
+  "BASE_DEMO": {
+    "usuario_env": "VIBRA_BASE_DEMO_USER",
+    "senha_env": "VIBRA_BASE_DEMO_PASSWORD",
+    "celulas": {
+      "celula_s10": "B5",
+      "celula_s500": "C5",
+      "celula_gasolina": "D5"
+    }
+  }
+}
